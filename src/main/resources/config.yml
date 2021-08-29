@@ -1,0 +1,8 @@
+# The minimum amount of players needed for the game to start automatically
+# Change this option to change the min amount
+min-players: 16
+
+# These are the settings for the Loot Drops that are dropped every few minutes
+loot-crates:
+
+    range:

@@ -19,5 +19,18 @@
 *.tar.gz
 *.rar
 
+#Target files
+*.iml
+.idea
+/.idea
+/target/
+*/target/**
+/mvn
+/target/lib
+/target/maven-archiver
+/target/classes
+/target/maven-status
+
+
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
